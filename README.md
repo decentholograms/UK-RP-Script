@@ -1,5 +1,5 @@
 # UK:RP SCRIPT
-The first script for Tower Stud Defense, i need your suggest for add, join: https://discord.gg/T57cbGDJZb
+The best script for uk:rp, i need your suggest for add, join: https://discord.gg/T57cbGDJZb
 
 # IMAGES
 
