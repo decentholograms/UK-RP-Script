@@ -13,5 +13,10 @@ This script was tested with jjsploit and swift but should work on other executor
 
 `loadstring(game:HttpGet("https://raw.githubusercontent.com/decentholograms/UK-RP-Script/refs/heads/main/UKRPScript.lua", true))()`
 
+# IF YOU HAVE CRIME BOSS GAMEPASS USE
+
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/decentholograms/UK-RP-Script/refs/heads/main/UKRPEDCrimeBoss.lua", true))()`
+
+
 
 
